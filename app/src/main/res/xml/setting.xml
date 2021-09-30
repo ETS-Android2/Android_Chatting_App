@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="설정 메뉴">
+<!--리스트 메뉴 설정은 res/values/arrays.xml 에서 설정-->
+        <ListPreference
+            android:key="theme"
+            android:title="앱 테마 설정"
+            android:summary="앱의 테마를 설정합니다."
+            android:entries="@array/theme"
+            android:entryValues="@array/theme"
+            android:icon="@drawable/theme"/>
+
+        <ListPreference
+            android:key="chat_theme"
+            android:title="채팅 테마 설정"
+            android:summary="채팅방 및 활성 채팅방 목록 테마를 설정합니다."
+            android:entries="@array/chat_theme"
+            android:entryValues="@array/chat_theme"
+            android:icon="@drawable/chat_theme"/>
+
+
+        <PreferenceScreen
+            android:title="인텐트 옵션"
+            android:summary="인텐트 액티비티로 이동">
+            <intent android:targetPackage="com.lee.woosuk"
+                android:targetClass="com.lee.woosuk.MainActivity"/>
+        </PreferenceScreen>
+
+        <SwitchPreference
+            android:key="switch"
+            android:title="스위치 옵션"
+            android:summary="스위치 옵션 / defaultValue=False"
+            android:defaultValue="false"/>
+
+        <CheckBoxPreference
+            android:key="check"
+            android:title="체크박스 옵션"
+            android:summary="체크박스 옵션"/>
+
+        <MultiSelectListPreference
+            android:key="multi"
+            android:title="다중선택 리스트"
+            android:summary="다중선택 옵션"
+            android:entries="@array/multi"
+            android:entryValues="@array/multi"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

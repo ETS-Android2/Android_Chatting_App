@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+
+    <string-array name="chat_theme">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+
+    <string-array name="multi">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+
+</resources>

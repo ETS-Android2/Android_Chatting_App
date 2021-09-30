@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="설정 값을 적용 하려면\n'설정 적용' 버튼 클릭 또는 앱의 재실행이 필요합니다."/>
+        <Button
+            android:id="@+id/backbtn"
+            android:text="설정 적용"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/clickbtn6"
+            android:layout_margin="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/clearbtn"
+            android:text="설정 초기화"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/clickbtn6"
+            android:layout_margin="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="설정 값을 초기화 하려면\n'설정 초기화' 버튼을 클릭해주세요. "/>
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/frag_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.lee.woosuk.SettingFragment"/>
+
+
+
+</LinearLayout>

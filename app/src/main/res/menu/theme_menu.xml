@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="테마 색상 선택">
+        <menu>
+            <item
+                android:id="@+id/red"
+                android:title="RED"/>
+            <item
+                android:id="@+id/blue"
+                android:title="BLUE"/>
+            <item
+                android:id="@+id/green"
+                android:title="GREEN"/>
+        </menu>
+    </item>
+
+</menu>
