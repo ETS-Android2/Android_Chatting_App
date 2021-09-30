@@ -13,11 +13,14 @@
 </figure>
 
 </br>
+</br>
+
 <figure>
     <div><b><i>■ Enter the Chat Room</i></b></div>
     <img src="/README_IMG/enter_chat_room.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
+</br>
 </br>
 
 <figure>
@@ -25,6 +28,7 @@
     <img src="/README_IMG/input_img.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
+</br>
 </br>
 
 <figure>
