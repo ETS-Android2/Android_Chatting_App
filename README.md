@@ -1,4 +1,4 @@
-# Firebase 기반 Android 채팅 App
+# Google Firebase 기반 Android 채팅 App
 
 ## ■ Preview
 
