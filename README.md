@@ -7,7 +7,7 @@
 <div markdown="1">
 
 <figure>
-    <figcaption><b><i>■ Launch Application</i></b></figcaption>
+    <div><b><i>■ Launch Application</i></b></div>
     <img src="/README_IMG/Start.gif" alt="앱 시작" width="40%" height="auto" />
     
 </figure>
