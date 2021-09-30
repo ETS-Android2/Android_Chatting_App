@@ -6,30 +6,29 @@
 <summary><b>Show</b></summary>
 <div markdown="1">
 
+</br>
 <figure>
     <div><b><i>■ Launch Application</i></b></div>
-    <img src="/README_IMG/Start.gif" alt="앱 시작" width="40%" height="auto" />
-    
+    <img src="/README_IMG/Start.gif" alt="앱 시작" width="40%" height="auto" />    
 </figure>
 
 </br>
-
 <figure>
-    <figcaption><b><i>■ Enter the Chat Room</i></b></figcaption>
+    <div><b><i>■ Enter the Chat Room</i></b></div>
     <img src="/README_IMG/enter_chat_room.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
 </br>
 
 <figure>
-    <figcaption><b><i>■ Input Images</i></b></figcaption>
+    <div><b><i>■ Input Images</i></b></div>
     <img src="/README_IMG/input_img.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
 </br>
 
 <figure>
-    <figcaption><b><i>■ Chagne Application Settings</i></b></figcaption>
+    <div><b><i>■ Chagne Application Settings</i></b></div>
     <img src="/README_IMG/app_settings.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
