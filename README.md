@@ -1,38 +1,45 @@
 # Google Firebase 기반 Android 채팅 App
 
 ## ■ Preview
-
+접기/펼치기 ↓
 <details>
-<summary><b>Show</b></summary>
+<summary><b>Launch Application</b></summary>
 <div markdown="1">
 
-</br>
 <figure>
-    <div><b><i>■ Launch Application</i></b></div>
     <img src="/README_IMG/Start.gif" alt="앱 시작" width="40%" height="auto" />    
 </figure>
+    
+</div>
+</details>
 
-</br>
-</br>
-
+<details>
+<summary><b>Enter the Chat Room</b></summary>
+<div markdown="1">
+    
 <figure>
-    <div><b><i>■ Enter the Chat Room</i></b></div>
     <img src="/README_IMG/enter_chat_room.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
-</br>
-</br>
+</div>
+</details>
 
+<details>
+<summary><b>Input Images</b></summary>
+<div markdown="1">
+    
 <figure>
-    <div><b><i>■ Input Images</i></b></div>
     <img src="/README_IMG/input_img.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
-</br>
-</br>
+</div>
+</details>
 
+<details>
+<summary><b>Chagne Application Settings</b></summary>
+<div markdown="1">
+    
 <figure>
-    <div><b><i>■ Chagne Application Settings</i></b></div>
     <img src="/README_IMG/app_settings.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
