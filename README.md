@@ -7,7 +7,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/Start.gif" alt="앱 시작" width="40%" height="auto" />    
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Android_Chatting_App/README_IMG//Start.gif" alt="앱 시작" width="40%" height="auto" />    
 </figure>
     
 </div>
@@ -18,7 +18,7 @@
 <div markdown="1">
     
 <figure>
-    <img src="/README_IMG/enter_chat_room.gif" alt="채팅방 입장" width="40%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Android_Chatting_App/README_IMG/enter_chat_room.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
 </div>
@@ -29,7 +29,7 @@
 <div markdown="1">
     
 <figure>
-    <img src="/README_IMG/input_img.gif" alt="채팅방 입장" width="40%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Android_Chatting_App/README_IMG//input_img.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
 </div>
@@ -40,7 +40,7 @@
 <div markdown="1">
     
 <figure>
-    <img src="/README_IMG/app_settings.gif" alt="채팅방 입장" width="40%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/Android_Chatting_App/README_IMG//app_settings.gif" alt="채팅방 입장" width="40%" height="auto" />
 </figure>
 
 </div>
